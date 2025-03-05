@@ -1,0 +1,2 @@
+bakalım git görebilecek mi
+commit mesajı ne olsun 
