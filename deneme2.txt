@@ -4,4 +4,5 @@ ne diyeyim
 git deneme commiti
 şimdi geçici alana ekleyip dosyaya bir şeyler ekleyip commiti denicem
 deneme metni 1
-
+geçici alana ekledikten sonra dosya adı olmadan commit edicem yani
+direkt geçici alandakini commit etmesini bekliyorum 
