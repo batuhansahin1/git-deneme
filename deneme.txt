@@ -4,3 +4,5 @@ commit mesajı ne olsun
 direkt commit geçici alan boşken
 çalışma alanından commit atınca git diff --staged değişecek mi
 deneyelim nasıl olucak
+şimdi tam tersini deneyeceğiz stagedekini ekleyip çalışma alanındaki 
+siliniyor mu diye bakıcaz.
