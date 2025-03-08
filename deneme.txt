@@ -2,3 +2,5 @@ bakalım git görebilecek mi
 commit mesajı ne olsun 
 şimdi birkaç deney yapıcam
 direkt commit geçici alan boşken
+çalışma alanından commit atınca git diff --staged değişecek mi
+deneyelim nasıl olucak
