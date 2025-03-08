@@ -1,4 +1,5 @@
 bilmiyorum sen söyle
 ne diyeyim
 şimdi bir sonraki commitimiz
+git deneme commiti
 
