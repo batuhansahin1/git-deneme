@@ -1,3 +1,4 @@
 bakalım git görebilecek mi
 commit mesajı ne olsun 
 şimdi birkaç deney yapıcam
+direkt commit geçici alan boşken
