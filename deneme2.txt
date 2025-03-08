@@ -2,4 +2,6 @@ bilmiyorum sen söyle
 ne diyeyim
 şimdi bir sonraki commitimiz
 git deneme commiti
+şimdi geçici alana ekleyip dosyaya bir şeyler ekleyip commiti denicem
+deneme metni 1
 
