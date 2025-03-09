@@ -11,3 +11,4 @@ gncel olmayan repodan push
 =======
 güncel olmayan repoya push isteği
 >>>>>>> f6b652295504b45054032f799537912474215611
+commit
