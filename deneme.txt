@@ -6,3 +6,4 @@ direkt commit geçici alan boşken
 deneyelim nasıl olucak
 şimdi tam tersini deneyeceğiz stagedekini ekleyip çalışma alanındaki 
 siliniyor mu diye bakıcaz.
+güncel olmayan repoya push isteği
