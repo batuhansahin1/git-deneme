@@ -7,3 +7,4 @@ deneme metni 1
 geçici alana ekledikten sonra dosya adı olmadan commit edicem yani
 direkt geçici alandakini commit etmesini bekliyorum 
 geçici alana eklemeden commit atıcam
+username değişik olunca nasıl push yapıyor
