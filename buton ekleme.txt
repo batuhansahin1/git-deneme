@@ -1,1 +1,1 @@
-buton eklendi
+buton eklendi.eklenen butonun renkleri değiştirildi
